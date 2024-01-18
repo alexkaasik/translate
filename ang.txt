@@ -9,4 +9,6 @@ soup
 byte
 super
 as
-code
+bacon
+tree
+rock
